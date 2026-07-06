@@ -2,6 +2,8 @@
 
 The BlogApi project is a Django-based RESTful API designed to manage blog posts, categories, and comments. It provides a robust and scalable framework for building blog applications, with features such as user registration, authentication, and authorization. The project utilizes the Django REST framework to define API endpoints, serialize data, and handle HTTP requests.
 
+Live here: https://blogapi-vby2.onrender.com/api/
+
 ## 🚀 Features
 
 - User registration and authentication using JSON Web Tokens (JWT)
